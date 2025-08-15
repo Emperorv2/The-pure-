@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "vercel-build": "echo 'No build needed for Python bot'"
+  }
+}
