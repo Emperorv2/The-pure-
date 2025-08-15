@@ -1,2 +1,2 @@
-TELEGRAM_BOT_TOKEN="7926932377:AAFE1XjTljwJqLQHcu_6mZ0JYp1i2GtnxuA"
-ADMIN_CHAT_ID="7298947288"
+python-telegram-bot==13.7
+python-dotenv==0.19.0
